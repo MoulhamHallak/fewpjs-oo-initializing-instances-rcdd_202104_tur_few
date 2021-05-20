@@ -1,13 +1,13 @@
 // Write your code here
 
 class Breakfast {
-  constructor(name, breed) {
-  this.name = name;
-  this.breed = breed;
+  constructor(food, drink) {
+  this.food = food;
+  this.drink = drinl;
   }
 }
 
-let newBreakfast = new Breakfast('cheese', 'egg');
+let newBreakfast = new Breakfast('cheese', 'juice');
 
 class Lunch {
   

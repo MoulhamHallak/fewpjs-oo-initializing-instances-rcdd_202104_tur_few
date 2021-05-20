@@ -20,5 +20,9 @@ class Lunch {
 let newLunch = new Lunch('mixed', 'mashrom', 'cola');
 
 class Dinner {
-  
+  constructor(salad, soup, drink) {
+  this.salad = salad;
+  this.soup = soup;
+  this.drink = drink;
+  }
 }

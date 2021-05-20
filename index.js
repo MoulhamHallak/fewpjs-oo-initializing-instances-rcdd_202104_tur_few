@@ -10,7 +10,10 @@ class Breakfast {
 let newBreakfast = new Breakfast('cheese', 'juice');
 
 class Lunch {
-  
+  constructor(salad, soup, drink) {
+  this.salad = salad;
+  this.drink = drink;
+  }
 }
 
 class Dinner {

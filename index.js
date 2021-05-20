@@ -7,7 +7,7 @@ class Breakfast {
   }
 }
 
-let newBreakfast = new Breakfast(cheese, egg);
+let newBreakfast = new Breakfast('cheese', 'egg');
 class Lunch {
   
 }

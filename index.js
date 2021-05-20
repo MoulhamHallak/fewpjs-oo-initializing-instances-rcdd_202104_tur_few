@@ -12,9 +12,12 @@ let newBreakfast = new Breakfast('cheese', 'juice');
 class Lunch {
   constructor(salad, soup, drink) {
   this.salad = salad;
+  this.soup = soup;
   this.drink = drink;
   }
 }
+
+let newLunch = new Lunch('mixed', 'mashrom', 'cola');
 
 class Dinner {
   

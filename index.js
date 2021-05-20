@@ -1,5 +1,13 @@
 // Write your code here
 
-breakfast
+class Breakfast {
+  
+}
 
-lunch
+class Lunch {
+  
+}
+
+class Dinner {
+  
+}
